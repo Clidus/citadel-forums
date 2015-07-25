@@ -717,7 +717,7 @@ fieldset.polls dd div {
 }
 
 .postprofile dt.no-profile-rank, .postprofile dd.profile-rank, .postprofile .search-result-date {
-	margin-bottom: 10px;
+	margin-bottom: 0px; /* was 10px */
 }
 
 /* Post-profile avatars */
